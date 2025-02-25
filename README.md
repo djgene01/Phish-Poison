@@ -18,6 +18,7 @@ An open-source tool to combat phishing by flooding malicious endpoints with fake
    git clone https://github.com/yourusername/PhishPoisoner.git
    cd PhishPoisoner
 
+![image](https://github.com/user-attachments/assets/9a691dfe-6db2-476e-b0cf-799d876ff390)
 
 
 # How It Works

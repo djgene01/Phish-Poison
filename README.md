@@ -57,9 +57,9 @@ To use `PhishPoisoner` effectively, you need the phishing form’s submission en
    - Search (`Ctrl+F`) for `<form` in the HTML source.
    - Look for the `action` attribute, which specifies the endpoint. For example:
      ```html
-     <form action="https://yanadai.top/submit.php" method="post">
+     <form action="https://scamurl.com/submit.php" method="post">
      ```
-   - The URL in the `action` attribute (here, `https://yanadai.top/submit.php`) is the endpoint.
+   - The URL in the `action` attribute (here, `https://scamurl.com/submit.php`) is the endpoint.
 
 3. **Input Fields**:
    - Note the `name` attributes of `<input>` tags within the form (e.g., `email` and `pswd`).
